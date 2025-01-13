@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #outer-box {
   background-color: purple;
 }
@@ -20,3 +21,27 @@ p {
 .white-text {
   color: white;
 }
+=======
+#outer-box {
+  background-color: purple;
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: red;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
+>>>>>>> 8aa37abf261d2c76d68192c9c30625ea15d523cd

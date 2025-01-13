@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
     background-color: black;
     margin-top: 75pt;
@@ -22,4 +23,30 @@ h2 {
     font-size: 12pt;
     text-align: center;
 
+=======
+html {
+    background-color: black;
+    margin-top: 75pt;
+}
+
+img {
+    height: 300pt;
+    border: 5pt solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300pt;
+    }
+
+h1 { 
+    color: whitesmoke;
+    font-size: 25pt;
+    text-align: center;
+}
+h2 {
+    color: whitesmoke;
+    font-size: 12pt;
+    text-align: center;
+
+>>>>>>> 8aa37abf261d2c76d68192c9c30625ea15d523cd
 }

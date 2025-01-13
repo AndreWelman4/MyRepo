@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Don't change the existing CSS. */
 
 .box {
@@ -9,4 +10,17 @@ p {
   color: yellow;
   margin: 0;
   padding: 0;
+=======
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+>>>>>>> 8aa37abf261d2c76d68192c9c30625ea15d523cd
 }
