@@ -1,5 +1,9 @@
 h1{
+    width: 400px;
+    display: inline;
     text-align: center;
+    float: center;
+    padding-left: 200px;    
 }
 
 img {
@@ -14,6 +18,7 @@ img {
     display: inline-block;
     height: auto;
     width: 300px;
+    float: left;
     text-align: left;
     background-color: gray;
     padding: 20px;
@@ -24,5 +29,6 @@ img {
 
 .rightkSide {
     display: inline-block;
+    float: center;
     text-align: center;
 }
